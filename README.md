@@ -3,8 +3,8 @@
 _Course:_ Database Management System Sessional (CSEC-322)<br />
 
 **Submitted By:**<br />
-Fatema Tabassum Diba<br />
-ID: 2222081029<br />
+Mahmud Rashid<br />
+ID: 2222081038<br />
 Batch: 57A Day<br />
 Semester: Fall-2024<br />
 
